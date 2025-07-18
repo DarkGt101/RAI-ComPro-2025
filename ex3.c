@@ -6,5 +6,5 @@ int main(){
     int b = 21;
     int c = 56;
     int result = (a+b)-c;
-    printf("%d", result);
+    printf("%d\n", result);
 }
