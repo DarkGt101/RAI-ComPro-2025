@@ -6,5 +6,5 @@ int main(){
     float b = 8.4;
     int c = 3;
     float result = (a+b)-c;
-    printf("%.2f\n",a,b,c, result);
+    printf("%.2f\n",result);
 }
