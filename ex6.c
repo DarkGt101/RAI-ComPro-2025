@@ -6,6 +6,6 @@ int main(){
 
     printf("%d", decimal);
     printf("\n%o", decimal);
-    printf("\n%x", decimal);
+    printf("\n%x\n", decimal);
     return 0;
 }

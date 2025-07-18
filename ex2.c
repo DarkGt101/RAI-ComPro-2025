@@ -7,7 +7,7 @@ int main(){
     int yearold = 18;
     int height = 170;
     printf("My name is %s",Firstname);
-    printf(" %s", Lastname);
-    printf("\nI am %d yearold", yearold);
-    printf("\nI am %d cm tall", height);
+    printf(" %s\n", Lastname);
+    printf("I am %d yearold", yearold);
+    printf("\nI am %d cm tall\n", height);
 }

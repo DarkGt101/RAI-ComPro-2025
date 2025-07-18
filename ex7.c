@@ -6,6 +6,6 @@ int main(){
     printf("\n  ^  ^\n");
     printf("  |  |\n");
     printf("(= . . =)");
-    printf("\n    v");
+    printf("\n    v\n");
     return 0;
 }
