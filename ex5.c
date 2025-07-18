@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf("\"\\American ya!\"\\\n");
+    printf("\"\\American ya!]\\\"\n");
     return 0;
 }
